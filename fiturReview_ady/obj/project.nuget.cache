@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1VIMcKe4jLB0Q/NF/Wczrbd68zcjRhxBGyIYWKUoQILU0+skAR8rjxajAHkckYvVa6xc/k9WJGlYl0+1aL7jtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ytnon\\Documents\\PBO\\penggabunganFIX\\fiturReview_ady\\fiturReview_ady.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ytnon\\.nuget\\packages\\font.awesome\\5.15.4\\font.awesome.5.15.4.nupkg.sha512",
+    "C:\\Users\\ytnon\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",
+    "C:\\Users\\ytnon\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ytnon\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\ytnon\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

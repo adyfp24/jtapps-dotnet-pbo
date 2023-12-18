@@ -1,0 +1,189 @@
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.exe
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.deps.json
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.runtimeconfig.json
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.dll
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.pdb
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.AssemblyReference.cache
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.Form1.resources
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.GenerateResource.cache
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.AssemblyInfoInputs.cache
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.AssemblyInfo.cs
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.CoreCompileInputs.cache
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.dll
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\refint\fiturReview_ady.dll
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.pdb
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.genruntimeconfig.cache
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\ref\fiturReview_ady.dll
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.Properties.Resources.resources
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.Form2.resources
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.Form3.resources
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.Form4.resources
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.Form1.resources
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.Form4.resources
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.Properties.Resources.resources
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.dll
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\refint\fiturReview_ady.dll
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.pdb
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.exe
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.deps.json
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.runtimeconfig.json
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.dll
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.pdb
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\ref\fiturReview_ady.dll
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.AssemblyReference.cache
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.dll
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\refint\fiturReview_ady.dll
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.pdb
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.exe
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.deps.json
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.runtimeconfig.json
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.dll
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.pdb
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.Properties.Resources.resources
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating.resources
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.GenerateResource.cache
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.AssemblyInfoInputs.cache
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.AssemblyInfo.cs
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.CoreCompileInputs.cache
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.genruntimeconfig.cache
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\ref\fiturReview_ady.dll
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.CopyComplete
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating2.resources
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating3.resources
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating4.resources
+C:\Users\ytnon\Documents\PBO\fiturReview_ady\fiturReview_ady\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.coba.resources
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.exe
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.deps.json
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.runtimeconfig.json
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.dll
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.pdb
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\Npgsql.dll
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.AssemblyReference.cache
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.coba.resources
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.Properties.Resources.resources
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating.resources
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating2.resources
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating3.resources
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating4.resources
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.GenerateResource.cache
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.AssemblyInfoInputs.cache
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.AssemblyInfo.cs
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.CopyComplete
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.dll
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\refint\fiturReview_ady.dll
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.pdb
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.genruntimeconfig.cache
+D:\DOWNLOAD\fiturReview_ady (4)\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\ref\fiturReview_ady.dll
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.exe
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.deps.json
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.runtimeconfig.json
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.dll
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.pdb
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\Npgsql.dll
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.AssemblyReference.cache
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.coba.resources
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.Properties.Resources.resources
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating.resources
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating2.resources
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating3.resources
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating4.resources
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.GenerateResource.cache
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.AssemblyInfoInputs.cache
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.AssemblyInfo.cs
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.CoreCompileInputs.cache
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.CopyComplete
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.dll
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\refint\fiturReview_ady.dll
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.pdb
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.genruntimeconfig.cache
+D:\KULIAH\Winform\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\ref\fiturReview_ady.dll
+C:\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.exe
+C:\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.deps.json
+C:\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.runtimeconfig.json
+C:\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.dll
+C:\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.pdb
+C:\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\fiturReview_ady\fiturReview_ady\bin\Debug\net6.0-windows\Npgsql.dll
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.AssemblyReference.cache
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.coba.resources
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.Properties.Resources.resources
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating.resources
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating2.resources
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating3.resources
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating4.resources
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.GenerateResource.cache
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.GeneratedMSBuildEditorConfig.editorconfig
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.AssemblyInfoInputs.cache
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.AssemblyInfo.cs
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.CoreCompileInputs.cache
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.CopyComplete
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.dll
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\refint\fiturReview_ady.dll
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.pdb
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.genruntimeconfig.cache
+C:\fiturReview_ady\fiturReview_ady\obj\Debug\net6.0-windows\ref\fiturReview_ady.dll
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.exe
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.deps.json
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.runtimeconfig.json
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.dll
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.pdb
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\bin\Debug\net6.0-windows\Npgsql.dll
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.AssemblyReference.cache
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.coba.resources
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.Properties.Resources.resources
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating.resources
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating2.resources
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating3.resources
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating4.resources
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.GenerateResource.cache
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.GeneratedMSBuildEditorConfig.editorconfig
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.AssemblyInfoInputs.cache
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.AssemblyInfo.cs
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.CoreCompileInputs.cache
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.CopyComplete
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.dll
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\refint\fiturReview_ady.dll
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.pdb
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.genruntimeconfig.cache
+E:\fiturReview_ady\fiturReview rating\fiturReview_ady\obj\Debug\net6.0-windows\ref\fiturReview_ady.dll
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.AssemblyReference.cache
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.dll
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\obj\Debug\net6.0-windows\refint\fiturReview_ady.dll
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.pdb
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.exe
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.deps.json
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.runtimeconfig.json
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.dll
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\bin\Debug\net6.0-windows\fiturReview_ady.pdb
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.Properties.Resources.resources
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating.resources
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating2.resources
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating3.resources
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\obj\Debug\net6.0-windows\JT_APPS__Final_Voucher_.rating4.resources
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.GenerateResource.cache
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.AssemblyInfoInputs.cache
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.AssemblyInfo.cs
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.CoreCompileInputs.cache
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.csproj.CopyComplete
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\obj\Debug\net6.0-windows\fiturReview_ady.genruntimeconfig.cache
+C:\Users\ytnon\Documents\PBO\penggabunganFIX\fiturReview_ady\obj\Debug\net6.0-windows\ref\fiturReview_ady.dll
